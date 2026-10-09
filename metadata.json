@@ -1,0 +1,6 @@
+{
+  "name": "صانع ريلز وتصميم الحالات | Reel & Status Studio",
+  "description": "تصميم ريلز احترافي وتبديل الصور مع اقتباسات فخمة، شات بوت ذكي، وتحويل الصور إلى فيديو بواسطة Veo",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
